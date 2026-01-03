@@ -48,7 +48,7 @@ var sum = function(a,b,c){
             return a+b
         },
         getSumThree : function(){
-           return a+b+c
+           return a+b+c  //main
         }
     }
 }
